@@ -1,6 +1,7 @@
 
-# Vavleen Kaur 101903190
-# assignment 6
+# Vavleen Kaur 
+# LOGISTIC REGRESSION
+#GENDER PREDICTION
 import numpy as np
 import pandas as pd
 import seaborn as sns
